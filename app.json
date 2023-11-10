@@ -34,6 +34,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "fbf6c5e8-b078-41ef-94a2-deed2e0031c7"
+      }
+    },
+    "owner": "dpak1999"
   }
 }
